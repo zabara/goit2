@@ -1,4 +1,4 @@
-package main.java.com.AlexZabara.practice.modul01.task01;
+package main.java.com.AlexZabara.practice.modul01.task01_2;
 
 public class FirstClass {
     public static void main(String[] args) {

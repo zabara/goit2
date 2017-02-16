@@ -1,9 +1,9 @@
-package main.java.com.AlexZabara.practice.modul01.task01;
+package main.java.com.AlexZabara.practice.modul01.task01_1;
 
-public class Fouth {
+public class Fifth {
     public static void main(String[] args) {
-        Fouth fouth = new Fouth();
-        fouth.string();
+        Fifth fifth = new Fifth();
+        fifth.string();
     }
 
     public void string(){
